@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Metode yang Dibandingkan
+## Metode yang Dibandingkan
 1. **Extreme Learning Machine (ELM):** Jaringan saraf dengan *single hidden layer* yang unggul pada kecepatan pelatihan analitik tanpa iterasi panjang.
 2. **Support Vector Machine (SVM):** Menggunakan **Kernel RBF** untuk menangani pemisahan pola keputusan non-linear berdimensi tinggi.
 3. **Multi-Layer Perceptron (MLP):** Jaringan saraf tiruan multi-lapisan dengan optimasi *backpropagation* (Adam Optimizer) untuk mempelajari representasi fitur yang kompleks.
